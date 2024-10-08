@@ -12,5 +12,6 @@ int main() {
     Add A1;
     A1.Addition(1,1);
     cout << "This is Cpp Program.." << endl;
-    cout << "Except this Pull Request";
+    cout << "Except this Pull Request" << endl;
+    cout << "Added New Change";
 }
